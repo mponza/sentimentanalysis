@@ -3,7 +3,7 @@ Sentiment Analysis in Twitter
 
 sentimentanalysis is the final project of the course of Natural Language Processing, whose goal was to develop a system which classifies whether a tweet is positive, negative or neutral.
 
-The software was developed by a team of three students: [Ilaria Ceppa](https://github.com/ilariaceppa), [Hind Chfouka] (https://github.com/chfouka), [Marco Ponza](https://github.com/mponza) and Roberto Trani.
+The software was developed by a team of three students: [Ilaria Ceppa](https://github.com/ilariaceppa), [Hind Chfouka](https://github.com/chfouka), [Marco Ponza](https://github.com/mponza) and [Roberto Trani](https://github.com/roberto-trani).
 
 
 Installation and Data Format
